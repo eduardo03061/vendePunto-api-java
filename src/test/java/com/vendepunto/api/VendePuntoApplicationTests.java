@@ -1,4 +1,4 @@
-package com.vendepunto.vendePunto;
+package com.vendepunto.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
